@@ -16,8 +16,7 @@ namespace Opg01HelloWorld
             Console.WriteLine("Velkommen " + navn);
             Console.WriteLine("Tryk på en tast for at fortsætte");
             Console.ReadKey();
-            // dshfdsajhijsafddsak
-            //nkdsfkdsafdsa
+           
 
         }
     }
