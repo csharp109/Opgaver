@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg2variabler", "opg2variab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg3månedsløn", "Opg3månedsløn\Opg3månedsløn.csproj", "{227AE492-1225-4EDF-A518-3194447038EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg4strenge", "Opg4strenge\Opg4strenge.csproj", "{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{227AE492-1225-4EDF-A518-3194447038EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{227AE492-1225-4EDF-A518-3194447038EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{227AE492-1225-4EDF-A518-3194447038EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
