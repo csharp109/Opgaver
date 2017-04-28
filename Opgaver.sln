@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg3månedsløn", "Opg3mån
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg4strenge", "Opg4strenge\Opg4strenge.csproj", "{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg5tabel", "Opg5tabel\Opg5tabel.csproj", "{52CBF548-E341-4961-BFB2-47828607FE7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CBF548-E341-4961-BFB2-47828607FE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CBF548-E341-4961-BFB2-47828607FE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CBF548-E341-4961-BFB2-47828607FE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CBF548-E341-4961-BFB2-47828607FE7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
