@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg01HelloWorld", "Opg01HelloWorld\Opg01HelloWorld.csproj", "{2067887B-D713-4D15-8B23-1B30A3AEA29E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testprojekt", "Testprojekt\Testprojekt.csproj", "{6CD0F82E-7B57-47EA-97DC-7554E72BFDC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg2variabler", "opg2variabler\opg2variabler.csproj", "{45BE866A-33AD-4230-BEEA-46BA546D11F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2067887B-D713-4D15-8B23-1B30A3AEA29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2067887B-D713-4D15-8B23-1B30A3AEA29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2067887B-D713-4D15-8B23-1B30A3AEA29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD0F82E-7B57-47EA-97DC-7554E72BFDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD0F82E-7B57-47EA-97DC-7554E72BFDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD0F82E-7B57-47EA-97DC-7554E72BFDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD0F82E-7B57-47EA-97DC-7554E72BFDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BE866A-33AD-4230-BEEA-46BA546D11F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BE866A-33AD-4230-BEEA-46BA546D11F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BE866A-33AD-4230-BEEA-46BA546D11F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BE866A-33AD-4230-BEEA-46BA546D11F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

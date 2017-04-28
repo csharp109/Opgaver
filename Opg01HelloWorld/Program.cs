@@ -18,10 +18,9 @@ namespace Opg01HelloWorld
             Console.ReadKey();
            ///fdgsjfdgdjfg
            ///fdslsfd
-           ///hjemmefra**********
            ///
            ///****
-
+           
 
         }
     }
