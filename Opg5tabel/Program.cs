@@ -17,13 +17,20 @@ namespace Opg5tabel
                 {
                     if (y < 10)
                         {
+
+                        string tal1 = (x * y).ToString();
+                        if ((x * y) > 50) Console.ForegroundColor = ConsoleColor.Yellow;
+                        else Console.ForegroundColor = ConsoleColor.White;
+
+                        Console.Write((tal1.PadLeft(4)) + " ");
                         
-                        Console.Write((x*y) + " ");
                     }
 
                     else
                     {
-                        Console.WriteLine((y * x). + " ");
+                        string tal1 = (x * y).ToString();
+                        Console.WriteLine((tal1.PadLeft(4)) + " ");
+                        
                     }
 
                 }
