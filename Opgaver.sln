@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg01HelloWorld", "Opg01HelloWorld\Opg01HelloWorld.csproj", "{2067887B-D713-4D15-8B23-1B30A3AEA29E}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg4strenge", "Opg4strenge\Opg4strenge.csproj", "{8AE29CF8-824B-44B2-B5EC-B07F25C713D6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg5tabel", "Opg5tabel\Opg5tabel.csproj", "{52CBF548-E341-4961-BFB2-47828607FE7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testprojekt2", "Testprojekt2\Testprojekt2.csproj", "{085323C3-D4FC-492A-A2C2-A8F9D44B2CF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{52CBF548-E341-4961-BFB2-47828607FE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52CBF548-E341-4961-BFB2-47828607FE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52CBF548-E341-4961-BFB2-47828607FE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085323C3-D4FC-492A-A2C2-A8F9D44B2CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085323C3-D4FC-492A-A2C2-A8F9D44B2CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085323C3-D4FC-492A-A2C2-A8F9D44B2CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085323C3-D4FC-492A-A2C2-A8F9D44B2CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

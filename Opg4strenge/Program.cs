@@ -10,8 +10,8 @@ namespace Opg4strenge
     {
         static void Main(string[] args)
         {
-            string fornavn = "Mikkel";
-            string efternavn = "Cronberg";
+           // string fornavn = "Mikkel";
+           // string efternavn = "Cronberg";
             string samletnavn = "Mikkel Cronberg";
             string navnStort = samletnavn.ToUpper();
             string navnLille = samletnavn.ToLower();

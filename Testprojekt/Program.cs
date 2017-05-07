@@ -10,6 +10,9 @@ namespace Testprojekt
     {
         static void Main(string[] args)
         {
+            //  Lommeregner regn1 = new Lommeregner("sum", 2, 10);
+            //Løkke regn = new Testprojekt.Løkke(9);
+            Tabel udregn = new Tabel();
         }
     }
 }
