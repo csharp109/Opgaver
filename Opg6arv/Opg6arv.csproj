@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2914DD2A-E46F-41E7-86D8-AA427873BDBC}</ProjectGuid>
+    <ProjectGuid>{DF60059D-6278-4BC6-A4E7-610C104E1066}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Opg6egenskaber2</RootNamespace>
-    <AssemblyName>Opg6egenskaber2</AssemblyName>
+    <RootNamespace>Opg6arv</RootNamespace>
+    <AssemblyName>Opg6arv</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
