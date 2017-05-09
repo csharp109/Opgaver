@@ -30,5 +30,14 @@ namespace Opg6egenskaber2
         }
 
 
+
+        //public string FuldtNavn
+        //{
+        //    get { return FuldtNavn; }
+        //    //set { FuldtNavn = value; }
+        //}
+
+
+
     }
 }
