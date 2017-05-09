@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg6egenskaber2", "Opg6egen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg6arv", "Opg6arv\Opg6arv.csproj", "{DF60059D-6278-4BC6-A4E7-610C104E1066}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg7_egenskaber_trekant", "Opg7_egenskaber_trekant\Opg7_egenskaber_trekant.csproj", "{477D2EAE-5E0C-4B29-AF6B-5FC987FE66AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{DF60059D-6278-4BC6-A4E7-610C104E1066}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF60059D-6278-4BC6-A4E7-610C104E1066}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF60059D-6278-4BC6-A4E7-610C104E1066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477D2EAE-5E0C-4B29-AF6B-5FC987FE66AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477D2EAE-5E0C-4B29-AF6B-5FC987FE66AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477D2EAE-5E0C-4B29-AF6B-5FC987FE66AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477D2EAE-5E0C-4B29-AF6B-5FC987FE66AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
