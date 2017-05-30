@@ -13,7 +13,7 @@ namespace Opg12_delegate
         public delegate int BeregnDelegate(int a, int b);
         static void Main(string[] args)
         {
-            int res = Beregner(6, 2, Gange) - Beregner(6, 2, Minus);
+            int res = Beregner(6, 2, Gange) - Beregner(10, 2, Minus);
             //res = Beregner(1, 1, Plus);
             Console.WriteLine(res);
             Console.ReadKey();
