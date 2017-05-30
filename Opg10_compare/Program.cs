@@ -19,6 +19,8 @@ namespace Opg10_compare
             Array.Sort(hunde);
             foreach (var item in hunde)
             {
+                
+                Console.Write(item.Alder + " ");
                 Console.WriteLine(item.Navn);
             }
 
@@ -34,9 +36,6 @@ namespace Opg10_compare
       public int CompareTo(object obj)
         {
             Hund h = obj as Hund;
-            Console.WriteLine("h.alder= " + h.Alder);
-            Console.WriteLine("this.alder= " + this.Alder);
-
             if (h.Alder > this.Alder)
                 return -1;
             if (h.Alder < this.Alder)
